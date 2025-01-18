@@ -1,2 +1,2 @@
 # hikam05.github.io
-UAS Desain Web
+UAS SEMESTER 1
